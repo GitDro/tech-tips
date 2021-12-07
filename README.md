@@ -10,4 +10,4 @@ Scattered tech notes
 
 ## Misc
 
-* [Install HEVC code for Windows](https://github.com/GitDro/tech-tips/wiki/Windows-10-11-HEVC-codec-install)
+* [Install HEVC codec for Windows](https://github.com/GitDro/tech-tips/wiki/Windows-10-11-HEVC-codec-install)
