@@ -11,6 +11,11 @@ Scattered tech notes
 * [Git modified on WSL](https://github.com/GitDro/tech-tips/wiki/Git-shows-all-files-as-modified-on-WSL)
 * [Another git process seems to be running in this repository](https://github.com/GitDro/tech-tips/wiki/Another-git-process-seems-to-be-running-in-this-repository)
 
+
+### Cuda
+
+* [Installing CUDA on WSL Ubuntu](https://github.com/GitDro/tech-tips/wiki/Installing-CUDA-on-WSL-Ubuntu)
+
 ## Misc
 
 * [Install HEVC codec for Windows](https://github.com/GitDro/tech-tips/wiki/Windows-10-11-HEVC-codec-install)
